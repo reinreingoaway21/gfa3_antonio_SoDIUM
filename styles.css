@@ -1,0 +1,56 @@
+body{
+    font-family: 'Futura', sans-serif;
+    background: url(vege.jpg)  100px 150px; 
+   
+} 
+h1{
+    font-weight: bolder;
+}
+#intro{
+    width: 65%;
+    font-size: 20px;
+}
+
+.randomizerer{
+    text-align: center;
+}
+.card{
+    width: 16%;
+    margin-right: 55px;
+    border-width: 1px;
+    border-color: black;
+    box-shadow: 2px 2px 7px rgb(212, 208, 208);
+}
+.card-header{
+    font-size: 30px;
+    color: white;
+}
+.card-text{
+    font-size: 30px;
+    vertical-align: middle;
+}
+
+#tomato{
+    display: inline-block;
+}
+
+
+#lettuce{
+    display: inline-table;
+    
+}
+
+#pumpkin{
+    display: inline-block;
+}
+#header-tom{
+    background-color: tomato;
+}
+
+#header-let{
+    background-color: lime;
+}
+
+#header-pum{
+    background-color: orange;
+}
